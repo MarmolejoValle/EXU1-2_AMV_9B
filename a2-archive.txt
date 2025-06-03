@@ -1,4 +1,6 @@
 Archivo de la actividad 2 - Alberto Marmolejo Valle
+Parrafo 1 de user1
+Parrafo 2 de user1
 Parrafo 1 de user2
 Parrafo 2 de user2
 Parrafo 3 de user2
